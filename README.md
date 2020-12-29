@@ -20,6 +20,11 @@ npm install
 cd eth-contracts
 truffle compile
 ```
+#### Start Ganache on port 7545
+#### Run the tests
+```
+truffle test
+```
 #### Deploy the contracts and save the contract address of TestSolnSquareVerifier
 ```
 truffle migrate --network rinkeby
