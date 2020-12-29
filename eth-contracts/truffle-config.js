@@ -1,5 +1,5 @@
 const HDWallet = require('truffle-hdwallet-provider');
-const MNEMONIC = 'theory table dumb message atom giant layer lawn anxiety quote anger axis';
+const MNEMONIC = '';
 
 module.exports = {
 	networks: {
